@@ -1,0 +1,10 @@
+###################################-------READ ME-------############################################
+
+1. OPEN CMD FROM THE FOLDER AND THEN TYPE(or copy paste)
+   pip install -r requirements.txt
+
+2. Install ShravanHandwriting.otf
+
+3. Install SaveAsPDFandXPS 
+
+4. Run the py file, generate the pdf and fool the teacher!!!!
